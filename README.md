@@ -40,6 +40,7 @@ better, and I'm all about that constant improvement.
 
 ## Languages and Tools:
 
+<img src="./images/banner.svg"/>
 <div class="container">
     <div class="card">
         <img src="./images/neovim.svg" alt="Neovim" title="Neovim" />
